@@ -1,0 +1,511 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B9051-0223-4455-AE2C-374183F432E6}|DLL_OCT_JetBrains\\DLL_RFC\\DLL_RFC.csproj|D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\dll_oct_jetbrains\\dll_rfc\\processing\\getmirror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1B9051-0223-4455-AE2C-374183F432E6}|DLL_OCT_JetBrains\\DLL_RFC\\DLL_RFC.csproj|solutionrelative:dll_oct_jetbrains\\dll_rfc\\processing\\getmirror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B9051-0223-4455-AE2C-374183F432E6}|DLL_OCT_JetBrains\\DLL_RFC\\DLL_RFC.csproj|D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\dll_oct_jetbrains\\dll_rfc\\processing\\controlprocessing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1B9051-0223-4455-AE2C-374183F432E6}|DLL_OCT_JetBrains\\DLL_RFC\\DLL_RFC.csproj|solutionrelative:dll_oct_jetbrains\\dll_rfc\\processing\\controlprocessing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B9051-0223-4455-AE2C-374183F432E6}|DLL_OCT_JetBrains\\DLL_RFC\\DLL_RFC.csproj|D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\dll_oct_jetbrains\\dll_rfc\\rfcinspection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1B9051-0223-4455-AE2C-374183F432E6}|DLL_OCT_JetBrains\\DLL_RFC\\DLL_RFC.csproj|solutionrelative:dll_oct_jetbrains\\dll_rfc\\rfcinspection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B9051-0223-4455-AE2C-374183F432E6}|DLL_OCT_JetBrains\\DLL_RFC\\DLL_RFC.csproj|D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\dll_oct_jetbrains\\dll_rfc\\adboard\\controladboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1B9051-0223-4455-AE2C-374183F432E6}|DLL_OCT_JetBrains\\DLL_RFC\\DLL_RFC.csproj|solutionrelative:dll_oct_jetbrains\\dll_rfc\\adboard\\controladboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8CF2D0-7384-4058-8B11-EBA2A6D87AC4}|WpfApp1\\WpfApp1.csproj|D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\wpfapp1\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C8CF2D0-7384-4058-8B11-EBA2A6D87AC4}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8CF2D0-7384-4058-8B11-EBA2A6D87AC4}|WpfApp1\\WpfApp1.csproj|D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C8CF2D0-7384-4058-8B11-EBA2A6D87AC4}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8CF2D0-7384-4058-8B11-EBA2A6D87AC4}|WpfApp1\\WpfApp1.csproj|D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C8CF2D0-7384-4058-8B11-EBA2A6D87AC4}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B9051-0223-4455-AE2C-374183F432E6}|DLL_OCT_JetBrains\\DLL_RFC\\DLL_RFC.csproj|d:\\01 oct task\\ss-oct\\sw\\oct_module\\20240131_wpf_dll_ok\\dll_oct_jetbrains\\dll_rfc\\inputparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1B9051-0223-4455-AE2C-374183F432E6}|DLL_OCT_JetBrains\\DLL_RFC\\DLL_RFC.csproj|solutionrelative:dll_oct_jetbrains\\dll_rfc\\inputparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B9051-0223-4455-AE2C-374183F432E6}|DLL_OCT_JetBrains\\DLL_RFC\\DLL_RFC.csproj|D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\dll_oct_jetbrains\\dll_rfc\\calibration\\readcalfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1B9051-0223-4455-AE2C-374183F432E6}|DLL_OCT_JetBrains\\DLL_RFC\\DLL_RFC.csproj|solutionrelative:dll_oct_jetbrains\\dll_rfc\\calibration\\readcalfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B9051-0223-4455-AE2C-374183F432E6}|DLL_OCT_JetBrains\\DLL_RFC\\DLL_RFC.csproj|D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\dll_oct_jetbrains\\dll_rfc\\calibration\\controlcalibration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1B9051-0223-4455-AE2C-374183F432E6}|DLL_OCT_JetBrains\\DLL_RFC\\DLL_RFC.csproj|solutionrelative:dll_oct_jetbrains\\dll_rfc\\calibration\\controlcalibration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B9051-0223-4455-AE2C-374183F432E6}|DLL_OCT_JetBrains\\DLL_RFC\\DLL_RFC.csproj|D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\dll_oct_jetbrains\\dll_rfc\\processing\\average.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1B9051-0223-4455-AE2C-374183F432E6}|DLL_OCT_JetBrains\\DLL_RFC\\DLL_RFC.csproj|solutionrelative:dll_oct_jetbrains\\dll_rfc\\processing\\average.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B9051-0223-4455-AE2C-374183F432E6}|DLL_OCT_JetBrains\\DLL_RFC\\DLL_RFC.csproj|D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\dll_oct_jetbrains\\dll_rfc\\daq\\scanneroutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1B9051-0223-4455-AE2C-374183F432E6}|DLL_OCT_JetBrains\\DLL_RFC\\DLL_RFC.csproj|solutionrelative:dll_oct_jetbrains\\dll_rfc\\daq\\scanneroutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B9051-0223-4455-AE2C-374183F432E6}|DLL_OCT_JetBrains\\DLL_RFC\\DLL_RFC.csproj|D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\dll_oct_jetbrains\\dll_rfc\\daq\\scannerfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1B9051-0223-4455-AE2C-374183F432E6}|DLL_OCT_JetBrains\\DLL_RFC\\DLL_RFC.csproj|solutionrelative:dll_oct_jetbrains\\dll_rfc\\daq\\scannerfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B9051-0223-4455-AE2C-374183F432E6}|DLL_OCT_JetBrains\\DLL_RFC\\DLL_RFC.csproj|D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\dll_oct_jetbrains\\dll_rfc\\daq\\frametriggerinternal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1B9051-0223-4455-AE2C-374183F432E6}|DLL_OCT_JetBrains\\DLL_RFC\\DLL_RFC.csproj|solutionrelative:dll_oct_jetbrains\\dll_rfc\\daq\\frametriggerinternal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B9051-0223-4455-AE2C-374183F432E6}|DLL_OCT_JetBrains\\DLL_RFC\\DLL_RFC.csproj|D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\dll_oct_jetbrains\\dll_rfc\\daq\\linetrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1B9051-0223-4455-AE2C-374183F432E6}|DLL_OCT_JetBrains\\DLL_RFC\\DLL_RFC.csproj|solutionrelative:dll_oct_jetbrains\\dll_rfc\\daq\\linetrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B9051-0223-4455-AE2C-374183F432E6}|DLL_OCT_JetBrains\\DLL_RFC\\DLL_RFC.csproj|D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\dll_oct_jetbrains\\dll_rfc\\daq\\frametriggerfinite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1B9051-0223-4455-AE2C-374183F432E6}|DLL_OCT_JetBrains\\DLL_RFC\\DLL_RFC.csproj|solutionrelative:dll_oct_jetbrains\\dll_rfc\\daq\\frametriggerfinite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B9051-0223-4455-AE2C-374183F432E6}|DLL_OCT_JetBrains\\DLL_RFC\\DLL_RFC.csproj|D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\dll_oct_jetbrains\\dll_rfc\\daq\\controldaq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1B9051-0223-4455-AE2C-374183F432E6}|DLL_OCT_JetBrains\\DLL_RFC\\DLL_RFC.csproj|solutionrelative:dll_oct_jetbrains\\dll_rfc\\daq\\controldaq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B9051-0223-4455-AE2C-374183F432E6}|DLL_OCT_JetBrains\\DLL_RFC\\DLL_RFC.csproj|D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\dll_oct_jetbrains\\dll_rfc\\processing\\jseventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1B9051-0223-4455-AE2C-374183F432E6}|DLL_OCT_JetBrains\\DLL_RFC\\DLL_RFC.csproj|solutionrelative:dll_oct_jetbrains\\dll_rfc\\processing\\jseventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8CF2D0-7384-4058-8B11-EBA2A6D87AC4}|WpfApp1\\WpfApp1.csproj|D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\wpfapp1\\drawimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C8CF2D0-7384-4058-8B11-EBA2A6D87AC4}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\drawimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B9051-0223-4455-AE2C-374183F432E6}|DLL_OCT_JetBrains\\DLL_RFC\\DLL_RFC.csproj|D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\dll_oct_jetbrains\\dll_rfc\\daq\\frametriggerexternal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1B9051-0223-4455-AE2C-374183F432E6}|DLL_OCT_JetBrains\\DLL_RFC\\DLL_RFC.csproj|solutionrelative:dll_oct_jetbrains\\dll_rfc\\daq\\frametriggerexternal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B9051-0223-4455-AE2C-374183F432E6}|DLL_OCT_JetBrains\\DLL_RFC\\DLL_RFC.csproj|D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\dll_oct_jetbrains\\dll_rfc\\manual\\manualprocessing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1B9051-0223-4455-AE2C-374183F432E6}|DLL_OCT_JetBrains\\DLL_RFC\\DLL_RFC.csproj|solutionrelative:dll_oct_jetbrains\\dll_rfc\\manual\\manualprocessing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B9051-0223-4455-AE2C-374183F432E6}|DLL_OCT_JetBrains\\DLL_RFC\\DLL_RFC.csproj|D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\dll_oct_jetbrains\\dll_rfc\\manual\\controlmanualtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1B9051-0223-4455-AE2C-374183F432E6}|DLL_OCT_JetBrains\\DLL_RFC\\DLL_RFC.csproj|solutionrelative:dll_oct_jetbrains\\dll_rfc\\manual\\controlmanualtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B9051-0223-4455-AE2C-374183F432E6}|DLL_OCT_JetBrains\\DLL_RFC\\DLL_RFC.csproj|D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\dll_oct_jetbrains\\dll_rfc\\processing\\getdepth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1B9051-0223-4455-AE2C-374183F432E6}|DLL_OCT_JetBrains\\DLL_RFC\\DLL_RFC.csproj|solutionrelative:dll_oct_jetbrains\\dll_rfc\\processing\\getdepth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B9051-0223-4455-AE2C-374183F432E6}|DLL_OCT_JetBrains\\DLL_RFC\\DLL_RFC.csproj|D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\dll_oct_jetbrains\\dll_rfc\\processing\\convertbytetoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1B9051-0223-4455-AE2C-374183F432E6}|DLL_OCT_JetBrains\\DLL_RFC\\DLL_RFC.csproj|solutionrelative:dll_oct_jetbrains\\dll_rfc\\processing\\convertbytetoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\98 \uB2E4\uC6B4\uB85C\uB4DC\\SW\uC790\uB8CC\\\uD604\uC7AC \uCD5C\uC2E0 DLL\\Transform\\Transform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\98 \uB2E4\uC6B4\uB85C\uB4DC\\\uD604\uC7AC \uCD5C\uC2E0 DLL\\Transform\\Transform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\98 \uB2E4\uC6B4\uB85C\uB4DC\\FFTW\\fftw-3.3.10\\tests\\fftw-bench.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ZT-LAB-9472741\\AppData\\Local\\Temp\\MetadataAsSource\\9d01153b11154911bf0a0105b8af8da6\\DecompilationMetadataAsSourceFileProvider\\1d238b5d418e4d99a910abc534d1b342\\AlazarAPI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\owner\\AppData\\Local\\Temp\\MetadataAsSource\\b6c56ce4a80c4d9cb865fef2ff061fca\\DecompilationMetadataAsSourceFileProvider\\a56abef6deba4e5c9633c9bc8e9d528b\\AlazarAPI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|DLL_RFC||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\98 \uB2E4\uC6B4\uB85C\uB4DC\\\uD604\uC81C \uCD5C\uC2E0 DLL\\Transform\\Transform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ScannerOutput.cs",
+              "DocumentMoniker": "D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\DLL_OCT_JetBrains\\DLL_RFC\\DAQ\\ScannerOutput.cs",
+              "RelativeDocumentMoniker": "DLL_OCT_JetBrains\\DLL_RFC\\DAQ\\ScannerOutput.cs",
+              "ToolTip": "D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\DLL_OCT_JetBrains\\DLL_RFC\\DAQ\\ScannerOutput.cs",
+              "RelativeToolTip": "DLL_OCT_JetBrains\\DLL_RFC\\DAQ\\ScannerOutput.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCwAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T01:46:02.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ControlProcessing.cs",
+              "DocumentMoniker": "D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\DLL_OCT_JetBrains\\DLL_RFC\\Processing\\ControlProcessing.cs",
+              "RelativeDocumentMoniker": "DLL_OCT_JetBrains\\DLL_RFC\\Processing\\ControlProcessing.cs",
+              "ToolTip": "D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\DLL_OCT_JetBrains\\DLL_RFC\\Processing\\ControlProcessing.cs",
+              "RelativeToolTip": "DLL_OCT_JetBrains\\DLL_RFC\\Processing\\ControlProcessing.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T01:46:02.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ControlCalibration.cs",
+              "DocumentMoniker": "D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\DLL_OCT_JetBrains\\DLL_RFC\\Calibration\\ControlCalibration.cs",
+              "RelativeDocumentMoniker": "DLL_OCT_JetBrains\\DLL_RFC\\Calibration\\ControlCalibration.cs",
+              "ToolTip": "D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\DLL_OCT_JetBrains\\DLL_RFC\\Calibration\\ControlCalibration.cs",
+              "RelativeToolTip": "DLL_OCT_JetBrains\\DLL_RFC\\Calibration\\ControlCalibration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T01:46:03.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RFCInspection.cs",
+              "DocumentMoniker": "D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\DLL_OCT_JetBrains\\DLL_RFC\\RFCInspection.cs",
+              "RelativeDocumentMoniker": "DLL_OCT_JetBrains\\DLL_RFC\\RFCInspection.cs",
+              "ToolTip": "D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\DLL_OCT_JetBrains\\DLL_RFC\\RFCInspection.cs",
+              "RelativeToolTip": "DLL_OCT_JetBrains\\DLL_RFC\\RFCInspection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T01:46:03.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InputParameters.cs",
+              "DocumentMoniker": "D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\DLL_OCT_JetBrains\\DLL_RFC\\InputParameters.cs",
+              "RelativeDocumentMoniker": "DLL_OCT_JetBrains\\DLL_RFC\\InputParameters.cs",
+              "ToolTip": "D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\DLL_OCT_JetBrains\\DLL_RFC\\InputParameters.cs",
+              "RelativeToolTip": "DLL_OCT_JetBrains\\DLL_RFC\\InputParameters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T01:46:02.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
+              "ToolTip": "D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-11T06:32:17.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwCUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T01:46:03.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewModel.cs",
+              "DocumentMoniker": "D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\WpfApp1\\ViewModel.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\ViewModel.cs",
+              "ToolTip": "D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\WpfApp1\\ViewModel.cs",
+              "RelativeToolTip": "WpfApp1\\ViewModel.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T01:46:03.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ControlADBoard.cs",
+              "DocumentMoniker": "D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\DLL_OCT_JetBrains\\DLL_RFC\\ADBoard\\ControlADBoard.cs",
+              "RelativeDocumentMoniker": "DLL_OCT_JetBrains\\DLL_RFC\\ADBoard\\ControlADBoard.cs",
+              "ToolTip": "D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\DLL_OCT_JetBrains\\DLL_RFC\\ADBoard\\ControlADBoard.cs",
+              "RelativeToolTip": "DLL_OCT_JetBrains\\DLL_RFC\\ADBoard\\ControlADBoard.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAowG8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T01:46:03.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetMirror.cs",
+              "DocumentMoniker": "D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\DLL_OCT_JetBrains\\DLL_RFC\\Processing\\GetMirror.cs",
+              "RelativeDocumentMoniker": "DLL_OCT_JetBrains\\DLL_RFC\\Processing\\GetMirror.cs",
+              "ToolTip": "D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\DLL_OCT_JetBrains\\DLL_RFC\\Processing\\GetMirror.cs",
+              "RelativeToolTip": "DLL_OCT_JetBrains\\DLL_RFC\\Processing\\GetMirror.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T02:50:34.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrameTriggerInternal.cs",
+              "DocumentMoniker": "D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\DLL_OCT_JetBrains\\DLL_RFC\\DAQ\\FrameTriggerInternal.cs",
+              "RelativeDocumentMoniker": "DLL_OCT_JetBrains\\DLL_RFC\\DAQ\\FrameTriggerInternal.cs",
+              "ToolTip": "D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\DLL_OCT_JetBrains\\DLL_RFC\\DAQ\\FrameTriggerInternal.cs",
+              "RelativeToolTip": "DLL_OCT_JetBrains\\DLL_RFC\\DAQ\\FrameTriggerInternal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T01:46:03.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrameTriggerFinite.cs",
+              "DocumentMoniker": "D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\DLL_OCT_JetBrains\\DLL_RFC\\DAQ\\FrameTriggerFinite.cs",
+              "RelativeDocumentMoniker": "DLL_OCT_JetBrains\\DLL_RFC\\DAQ\\FrameTriggerFinite.cs",
+              "ToolTip": "D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\DLL_OCT_JetBrains\\DLL_RFC\\DAQ\\FrameTriggerFinite.cs",
+              "RelativeToolTip": "DLL_OCT_JetBrains\\DLL_RFC\\DAQ\\FrameTriggerFinite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T06:54:03.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LineTrigger.cs",
+              "DocumentMoniker": "D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\DLL_OCT_JetBrains\\DLL_RFC\\DAQ\\LineTrigger.cs",
+              "RelativeDocumentMoniker": "DLL_OCT_JetBrains\\DLL_RFC\\DAQ\\LineTrigger.cs",
+              "ToolTip": "D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\DLL_OCT_JetBrains\\DLL_RFC\\DAQ\\LineTrigger.cs",
+              "RelativeToolTip": "DLL_OCT_JetBrains\\DLL_RFC\\DAQ\\LineTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T06:57:52.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Average.cs",
+              "DocumentMoniker": "D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\DLL_OCT_JetBrains\\DLL_RFC\\Processing\\Average.cs",
+              "RelativeDocumentMoniker": "DLL_OCT_JetBrains\\DLL_RFC\\Processing\\Average.cs",
+              "ToolTip": "D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\DLL_OCT_JetBrains\\DLL_RFC\\Processing\\Average.cs",
+              "RelativeToolTip": "DLL_OCT_JetBrains\\DLL_RFC\\Processing\\Average.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T01:46:03.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReadCalFile.cs",
+              "DocumentMoniker": "D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\DLL_OCT_JetBrains\\DLL_RFC\\Calibration\\ReadCalFile.cs",
+              "RelativeDocumentMoniker": "DLL_OCT_JetBrains\\DLL_RFC\\Calibration\\ReadCalFile.cs",
+              "ToolTip": "D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\DLL_OCT_JetBrains\\DLL_RFC\\Calibration\\ReadCalFile.cs",
+              "RelativeToolTip": "DLL_OCT_JetBrains\\DLL_RFC\\Calibration\\ReadCalFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T01:46:03.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ScannerFunction.cs",
+              "DocumentMoniker": "D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\DLL_OCT_JetBrains\\DLL_RFC\\DAQ\\ScannerFunction.cs",
+              "RelativeDocumentMoniker": "DLL_OCT_JetBrains\\DLL_RFC\\DAQ\\ScannerFunction.cs",
+              "ToolTip": "D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\DLL_OCT_JetBrains\\DLL_RFC\\DAQ\\ScannerFunction.cs",
+              "RelativeToolTip": "DLL_OCT_JetBrains\\DLL_RFC\\DAQ\\ScannerFunction.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T01:46:02.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ControlDAQ.cs",
+              "DocumentMoniker": "D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\DLL_OCT_JetBrains\\DLL_RFC\\DAQ\\ControlDAQ.cs",
+              "RelativeDocumentMoniker": "DLL_OCT_JetBrains\\DLL_RFC\\DAQ\\ControlDAQ.cs",
+              "ToolTip": "D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\DLL_OCT_JetBrains\\DLL_RFC\\DAQ\\ControlDAQ.cs",
+              "RelativeToolTip": "DLL_OCT_JetBrains\\DLL_RFC\\DAQ\\ControlDAQ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T01:46:02.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "JSEventArgs.cs",
+              "DocumentMoniker": "D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\DLL_OCT_JetBrains\\DLL_RFC\\Processing\\JSEventArgs.cs",
+              "RelativeDocumentMoniker": "DLL_OCT_JetBrains\\DLL_RFC\\Processing\\JSEventArgs.cs",
+              "ToolTip": "D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\DLL_OCT_JetBrains\\DLL_RFC\\Processing\\JSEventArgs.cs",
+              "RelativeToolTip": "DLL_OCT_JetBrains\\DLL_RFC\\Processing\\JSEventArgs.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwC4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T01:46:03.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DrawImage.cs",
+              "DocumentMoniker": "D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\WpfApp1\\DrawImage.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\DrawImage.cs",
+              "ToolTip": "D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\WpfApp1\\DrawImage.cs",
+              "RelativeToolTip": "WpfApp1\\DrawImage.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAjwCgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T01:46:03.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Transform.cpp",
+              "DocumentMoniker": "D:\\98 \uB2E4\uC6B4\uB85C\uB4DC\\SW\uC790\uB8CC\\\uD604\uC7AC \uCD5C\uC2E0 DLL\\Transform\\Transform.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\98 \uB2E4\uC6B4\uB85C\uB4DC\\SW\uC790\uB8CC\\\uD604\uC7AC \uCD5C\uC2E0 DLL\\Transform\\Transform.cpp",
+              "ToolTip": "D:\\98 \uB2E4\uC6B4\uB85C\uB4DC\\SW\uC790\uB8CC\\\uD604\uC7AC \uCD5C\uC2E0 DLL\\Transform\\Transform.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\98 \uB2E4\uC6B4\uB85C\uB4DC\\SW\uC790\uB8CC\\\uD604\uC7AC \uCD5C\uC2E0 DLL\\Transform\\Transform.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-17T06:08:24.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ManualProcessing.cs",
+              "DocumentMoniker": "D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\DLL_OCT_JetBrains\\DLL_RFC\\Manual\\ManualProcessing.cs",
+              "RelativeDocumentMoniker": "DLL_OCT_JetBrains\\DLL_RFC\\Manual\\ManualProcessing.cs",
+              "ToolTip": "D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\DLL_OCT_JetBrains\\DLL_RFC\\Manual\\ManualProcessing.cs",
+              "RelativeToolTip": "DLL_OCT_JetBrains\\DLL_RFC\\Manual\\ManualProcessing.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAYwFMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T01:46:03.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrameTriggerExternal.cs",
+              "DocumentMoniker": "D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\DLL_OCT_JetBrains\\DLL_RFC\\DAQ\\FrameTriggerExternal.cs",
+              "RelativeDocumentMoniker": "DLL_OCT_JetBrains\\DLL_RFC\\DAQ\\FrameTriggerExternal.cs",
+              "ToolTip": "D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\DLL_OCT_JetBrains\\DLL_RFC\\DAQ\\FrameTriggerExternal.cs",
+              "RelativeToolTip": "DLL_OCT_JetBrains\\DLL_RFC\\DAQ\\FrameTriggerExternal.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBsAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T01:46:03.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ControlManualTest.cs",
+              "DocumentMoniker": "D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\DLL_OCT_JetBrains\\DLL_RFC\\Manual\\ControlManualTest.cs",
+              "RelativeDocumentMoniker": "DLL_OCT_JetBrains\\DLL_RFC\\Manual\\ControlManualTest.cs",
+              "ToolTip": "D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\DLL_OCT_JetBrains\\DLL_RFC\\Manual\\ControlManualTest.cs",
+              "RelativeToolTip": "DLL_OCT_JetBrains\\DLL_RFC\\Manual\\ControlManualTest.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAmwD4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T01:46:03.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GetDepth.cs",
+              "DocumentMoniker": "D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\DLL_OCT_JetBrains\\DLL_RFC\\Processing\\GetDepth.cs",
+              "RelativeDocumentMoniker": "DLL_OCT_JetBrains\\DLL_RFC\\Processing\\GetDepth.cs",
+              "ToolTip": "D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\DLL_OCT_JetBrains\\DLL_RFC\\Processing\\GetDepth.cs",
+              "RelativeToolTip": "DLL_OCT_JetBrains\\DLL_RFC\\Processing\\GetDepth.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAywKIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T01:46:03.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Transform.cpp",
+              "DocumentMoniker": "D:\\98 \uB2E4\uC6B4\uB85C\uB4DC\\\uD604\uC7AC \uCD5C\uC2E0 DLL\\Transform\\Transform.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\98 \uB2E4\uC6B4\uB85C\uB4DC\\\uD604\uC7AC \uCD5C\uC2E0 DLL\\Transform\\Transform.cpp",
+              "ToolTip": "D:\\98 \uB2E4\uC6B4\uB85C\uB4DC\\\uD604\uC7AC \uCD5C\uC2E0 DLL\\Transform\\Transform.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\98 \uB2E4\uC6B4\uB85C\uB4DC\\\uD604\uC7AC \uCD5C\uC2E0 DLL\\Transform\\Transform.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-10T06:09:42.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "fftw-bench.c",
+              "DocumentMoniker": "D:\\98 \uB2E4\uC6B4\uB85C\uB4DC\\FFTW\\fftw-3.3.10\\tests\\fftw-bench.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\98 \uB2E4\uC6B4\uB85C\uB4DC\\FFTW\\fftw-3.3.10\\tests\\fftw-bench.c",
+              "ToolTip": "D:\\98 \uB2E4\uC6B4\uB85C\uB4DC\\FFTW\\fftw-3.3.10\\tests\\fftw-bench.c",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\98 \uB2E4\uC6B4\uB85C\uB4DC\\FFTW\\fftw-3.3.10\\tests\\fftw-bench.c",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAB0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-09T06:20:59.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Transform.h",
+              "DocumentMoniker": "D:\\98 \uB2E4\uC6B4\uB85C\uB4DC\\\uD604\uC81C \uCD5C\uC2E0 DLL\\Transform\\Transform.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\98 \uB2E4\uC6B4\uB85C\uB4DC\\\uD604\uC81C \uCD5C\uC2E0 DLL\\Transform\\Transform.h",
+              "ToolTip": "D:\\98 \uB2E4\uC6B4\uB85C\uB4DC\\\uD604\uC81C \uCD5C\uC2E0 DLL\\Transform\\Transform.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\98 \uB2E4\uC6B4\uB85C\uB4DC\\\uD604\uC81C \uCD5C\uC2E0 DLL\\Transform\\Transform.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-09T06:24:11.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ConvertByteToInt.cs",
+              "DocumentMoniker": "D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\DLL_OCT_JetBrains\\DLL_RFC\\Processing\\ConvertByteToInt.cs",
+              "RelativeDocumentMoniker": "DLL_OCT_JetBrains\\DLL_RFC\\Processing\\ConvertByteToInt.cs",
+              "ToolTip": "D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\DLL_OCT_JetBrains\\DLL_RFC\\Processing\\ConvertByteToInt.cs",
+              "RelativeToolTip": "DLL_OCT_JetBrains\\DLL_RFC\\Processing\\ConvertByteToInt.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAACZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T02:50:23.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AlazarAPI.cs",
+              "DocumentMoniker": "C:\\Users\\ZT-LAB-9472741\\AppData\\Local\\Temp\\MetadataAsSource\\9d01153b11154911bf0a0105b8af8da6\\DecompilationMetadataAsSourceFileProvider\\1d238b5d418e4d99a910abc534d1b342\\AlazarAPI.cs",
+              "ToolTip": "C:\\Users\\ZT-LAB-9472741\\AppData\\Local\\Temp\\MetadataAsSource\\9d01153b11154911bf0a0105b8af8da6\\DecompilationMetadataAsSourceFileProvider\\1d238b5d418e4d99a910abc534d1b342\\AlazarAPI.cs",
+              "ViewState": "AgIAAOAEAAAAAAAAAAAQwBEFAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T05:18:50.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AlazarAPI.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\AppData\\Local\\Temp\\MetadataAsSource\\b6c56ce4a80c4d9cb865fef2ff061fca\\DecompilationMetadataAsSourceFileProvider\\a56abef6deba4e5c9633c9bc8e9d528b\\AlazarAPI.cs",
+              "ToolTip": "C:\\Users\\owner\\AppData\\Local\\Temp\\MetadataAsSource\\b6c56ce4a80c4d9cb865fef2ff061fca\\DecompilationMetadataAsSourceFileProvider\\a56abef6deba4e5c9633c9bc8e9d528b\\AlazarAPI.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAMwDUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T02:39:42.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DLL_RFC",
+              "DocumentMoniker": "D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\DLL_OCT_JetBrains\\DLL_RFC\\DLL_RFC.csproj",
+              "RelativeDocumentMoniker": "DLL_OCT_JetBrains\\DLL_RFC\\DLL_RFC.csproj",
+              "ToolTip": "D:\\01 OCT TASK\\SS-OCT\\SW\\OCT_Module\\20240131_wpf_dll_ok\\DLL_OCT_JetBrains\\DLL_RFC\\DLL_RFC.csproj",
+              "RelativeToolTip": "DLL_OCT_JetBrains\\DLL_RFC\\DLL_RFC.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-07T04:50:59.059Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\bin\Debug\dll\x86\opencv_videoio_ffmpeg490.dll
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\bin\Debug\dll\x64\opencv_videoio_ffmpeg490_64.dll
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\bin\Debug\AlazarApiNet.dll
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\bin\Debug\DLL_RFC.dll
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\bin\Debug\LiveCharts.dll
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\bin\Debug\LiveCharts.Wpf.dll
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\bin\Debug\MathNet.Filtering.dll
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\bin\Debug\MathNet.Numerics.dll
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\bin\Debug\NationalInstruments.Common.dll
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\bin\Debug\NationalInstruments.DAQmx.dll
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\bin\Debug\OpenCvSharp.dll
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\bin\Debug\OpenCvSharp.WpfExtensions.dll
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\bin\Debug\System.Buffers.dll
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\bin\Debug\System.Drawing.Common.dll
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\bin\Debug\System.Memory.dll
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\bin\Debug\System.ValueTuple.dll
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\bin\Debug\NationalInstruments.MStudioCLM.dll
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\bin\Debug\LiveCharts.pdb
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\bin\Debug\LiveCharts.xml
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\bin\Debug\LiveCharts.Wpf.pdb
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\bin\Debug\LiveCharts.Wpf.xml
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\bin\Debug\MathNet.Filtering.xml
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\bin\Debug\MathNet.Numerics.xml
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\bin\Debug\NationalInstruments.Common.xml
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\bin\Debug\NationalInstruments.DAQmx.xml
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\bin\Debug\OpenCvSharp.xml
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\bin\Debug\OpenCvSharp.WpfExtensions.xml
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\bin\Debug\System.Buffers.xml
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\bin\Debug\System.Drawing.Common.pdb
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\bin\Debug\System.Drawing.Common.xml
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\bin\Debug\System.Memory.xml
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\bin\Debug\System.ValueTuple.xml
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+D:\Project\Phil\Program\Trump\DLL 테스트용 WPF\20240131_wpf\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\samsung\Desktop\20240131_wpf\WpfApp1\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\samsung\Desktop\20240131_wpf\WpfApp1\bin\Debug\dll\x86\opencv_videoio_ffmpeg490.dll
+C:\Users\samsung\Desktop\20240131_wpf\WpfApp1\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\samsung\Desktop\20240131_wpf\WpfApp1\bin\Debug\dll\x64\opencv_videoio_ffmpeg490_64.dll
+C:\Users\samsung\Desktop\20240131_wpf\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\samsung\Desktop\20240131_wpf\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\samsung\Desktop\20240131_wpf\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\samsung\Desktop\20240131_wpf\WpfApp1\bin\Debug\DLL_RFC.dll
+C:\Users\samsung\Desktop\20240131_wpf\WpfApp1\bin\Debug\LiveCharts.dll
+C:\Users\samsung\Desktop\20240131_wpf\WpfApp1\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\samsung\Desktop\20240131_wpf\WpfApp1\bin\Debug\MathNet.Filtering.dll
+C:\Users\samsung\Desktop\20240131_wpf\WpfApp1\bin\Debug\MathNet.Numerics.dll
+C:\Users\samsung\Desktop\20240131_wpf\WpfApp1\bin\Debug\OpenCvSharp.dll
+C:\Users\samsung\Desktop\20240131_wpf\WpfApp1\bin\Debug\OpenCvSharp.WpfExtensions.dll
+C:\Users\samsung\Desktop\20240131_wpf\WpfApp1\bin\Debug\System.Buffers.dll
+C:\Users\samsung\Desktop\20240131_wpf\WpfApp1\bin\Debug\System.Drawing.Common.dll
+C:\Users\samsung\Desktop\20240131_wpf\WpfApp1\bin\Debug\System.Memory.dll
+C:\Users\samsung\Desktop\20240131_wpf\WpfApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\samsung\Desktop\20240131_wpf\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\samsung\Desktop\20240131_wpf\WpfApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\samsung\Desktop\20240131_wpf\WpfApp1\bin\Debug\DLL_RFC.pdb
+C:\Users\samsung\Desktop\20240131_wpf\WpfApp1\bin\Debug\LiveCharts.pdb
+C:\Users\samsung\Desktop\20240131_wpf\WpfApp1\bin\Debug\LiveCharts.xml
+C:\Users\samsung\Desktop\20240131_wpf\WpfApp1\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\samsung\Desktop\20240131_wpf\WpfApp1\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\samsung\Desktop\20240131_wpf\WpfApp1\bin\Debug\MathNet.Filtering.xml
+C:\Users\samsung\Desktop\20240131_wpf\WpfApp1\bin\Debug\MathNet.Numerics.xml
+C:\Users\samsung\Desktop\20240131_wpf\WpfApp1\bin\Debug\OpenCvSharp.xml
+C:\Users\samsung\Desktop\20240131_wpf\WpfApp1\bin\Debug\OpenCvSharp.WpfExtensions.xml
+C:\Users\samsung\Desktop\20240131_wpf\WpfApp1\bin\Debug\System.Buffers.xml
+C:\Users\samsung\Desktop\20240131_wpf\WpfApp1\bin\Debug\System.Drawing.Common.pdb
+C:\Users\samsung\Desktop\20240131_wpf\WpfApp1\bin\Debug\System.Drawing.Common.xml
+C:\Users\samsung\Desktop\20240131_wpf\WpfApp1\bin\Debug\System.Memory.xml
+C:\Users\samsung\Desktop\20240131_wpf\WpfApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\samsung\Desktop\20240131_wpf\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\samsung\Desktop\20240131_wpf\WpfApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\samsung\Desktop\20240131_wpf\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\samsung\Desktop\20240131_wpf\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\samsung\Desktop\20240131_wpf\WpfApp1\obj\Debug\App.g.cs
+C:\Users\samsung\Desktop\20240131_wpf\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\samsung\Desktop\20240131_wpf\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\samsung\Desktop\20240131_wpf\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\samsung\Desktop\20240131_wpf\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\samsung\Desktop\20240131_wpf\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\samsung\Desktop\20240131_wpf\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\samsung\Desktop\20240131_wpf\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\samsung\Desktop\20240131_wpf\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\samsung\Desktop\20240131_wpf\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\samsung\Desktop\20240131_wpf\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\samsung\Desktop\20240131_wpf\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\samsung\Desktop\20240131_wpf\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\samsung\Desktop\[WORK]\OCT\OCT_DLL\20240131_wpf_dll\WpfApp1\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\samsung\Desktop\[WORK]\OCT\OCT_DLL\20240131_wpf_dll\WpfApp1\bin\Debug\dll\x86\opencv_videoio_ffmpeg490.dll
+C:\Users\samsung\Desktop\[WORK]\OCT\OCT_DLL\20240131_wpf_dll\WpfApp1\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\samsung\Desktop\[WORK]\OCT\OCT_DLL\20240131_wpf_dll\WpfApp1\bin\Debug\dll\x64\opencv_videoio_ffmpeg490_64.dll
+C:\Users\samsung\Desktop\[WORK]\OCT\OCT_DLL\20240131_wpf_dll\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\samsung\Desktop\[WORK]\OCT\OCT_DLL\20240131_wpf_dll\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\samsung\Desktop\[WORK]\OCT\OCT_DLL\20240131_wpf_dll\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\samsung\Desktop\[WORK]\OCT\OCT_DLL\20240131_wpf_dll\WpfApp1\bin\Debug\DLL_RFC.dll
+C:\Users\samsung\Desktop\[WORK]\OCT\OCT_DLL\20240131_wpf_dll\WpfApp1\bin\Debug\LiveCharts.dll
+C:\Users\samsung\Desktop\[WORK]\OCT\OCT_DLL\20240131_wpf_dll\WpfApp1\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\samsung\Desktop\[WORK]\OCT\OCT_DLL\20240131_wpf_dll\WpfApp1\bin\Debug\MathNet.Filtering.dll
+C:\Users\samsung\Desktop\[WORK]\OCT\OCT_DLL\20240131_wpf_dll\WpfApp1\bin\Debug\MathNet.Numerics.dll
+C:\Users\samsung\Desktop\[WORK]\OCT\OCT_DLL\20240131_wpf_dll\WpfApp1\bin\Debug\OpenCvSharp.dll
+C:\Users\samsung\Desktop\[WORK]\OCT\OCT_DLL\20240131_wpf_dll\WpfApp1\bin\Debug\OpenCvSharp.WpfExtensions.dll
+C:\Users\samsung\Desktop\[WORK]\OCT\OCT_DLL\20240131_wpf_dll\WpfApp1\bin\Debug\System.Buffers.dll
+C:\Users\samsung\Desktop\[WORK]\OCT\OCT_DLL\20240131_wpf_dll\WpfApp1\bin\Debug\System.Drawing.Common.dll
+C:\Users\samsung\Desktop\[WORK]\OCT\OCT_DLL\20240131_wpf_dll\WpfApp1\bin\Debug\System.Memory.dll
+C:\Users\samsung\Desktop\[WORK]\OCT\OCT_DLL\20240131_wpf_dll\WpfApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\samsung\Desktop\[WORK]\OCT\OCT_DLL\20240131_wpf_dll\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\samsung\Desktop\[WORK]\OCT\OCT_DLL\20240131_wpf_dll\WpfApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\samsung\Desktop\[WORK]\OCT\OCT_DLL\20240131_wpf_dll\WpfApp1\bin\Debug\DLL_RFC.pdb
+C:\Users\samsung\Desktop\[WORK]\OCT\OCT_DLL\20240131_wpf_dll\WpfApp1\bin\Debug\LiveCharts.pdb
+C:\Users\samsung\Desktop\[WORK]\OCT\OCT_DLL\20240131_wpf_dll\WpfApp1\bin\Debug\LiveCharts.xml
+C:\Users\samsung\Desktop\[WORK]\OCT\OCT_DLL\20240131_wpf_dll\WpfApp1\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\samsung\Desktop\[WORK]\OCT\OCT_DLL\20240131_wpf_dll\WpfApp1\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\samsung\Desktop\[WORK]\OCT\OCT_DLL\20240131_wpf_dll\WpfApp1\bin\Debug\MathNet.Filtering.xml
+C:\Users\samsung\Desktop\[WORK]\OCT\OCT_DLL\20240131_wpf_dll\WpfApp1\bin\Debug\MathNet.Numerics.xml
+C:\Users\samsung\Desktop\[WORK]\OCT\OCT_DLL\20240131_wpf_dll\WpfApp1\bin\Debug\OpenCvSharp.xml
+C:\Users\samsung\Desktop\[WORK]\OCT\OCT_DLL\20240131_wpf_dll\WpfApp1\bin\Debug\OpenCvSharp.WpfExtensions.xml
+C:\Users\samsung\Desktop\[WORK]\OCT\OCT_DLL\20240131_wpf_dll\WpfApp1\bin\Debug\System.Buffers.xml
+C:\Users\samsung\Desktop\[WORK]\OCT\OCT_DLL\20240131_wpf_dll\WpfApp1\bin\Debug\System.Drawing.Common.pdb
+C:\Users\samsung\Desktop\[WORK]\OCT\OCT_DLL\20240131_wpf_dll\WpfApp1\bin\Debug\System.Drawing.Common.xml
+C:\Users\samsung\Desktop\[WORK]\OCT\OCT_DLL\20240131_wpf_dll\WpfApp1\bin\Debug\System.Memory.xml
+C:\Users\samsung\Desktop\[WORK]\OCT\OCT_DLL\20240131_wpf_dll\WpfApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\samsung\Desktop\[WORK]\OCT\OCT_DLL\20240131_wpf_dll\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\samsung\Desktop\[WORK]\OCT\OCT_DLL\20240131_wpf_dll\WpfApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\samsung\Desktop\[WORK]\OCT\OCT_DLL\20240131_wpf_dll\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\samsung\Desktop\[WORK]\OCT\OCT_DLL\20240131_wpf_dll\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\samsung\Desktop\[WORK]\OCT\OCT_DLL\20240131_wpf_dll\WpfApp1\obj\Debug\App.g.cs
+C:\Users\samsung\Desktop\[WORK]\OCT\OCT_DLL\20240131_wpf_dll\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\samsung\Desktop\[WORK]\OCT\OCT_DLL\20240131_wpf_dll\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\samsung\Desktop\[WORK]\OCT\OCT_DLL\20240131_wpf_dll\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\samsung\Desktop\[WORK]\OCT\OCT_DLL\20240131_wpf_dll\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\samsung\Desktop\[WORK]\OCT\OCT_DLL\20240131_wpf_dll\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\samsung\Desktop\[WORK]\OCT\OCT_DLL\20240131_wpf_dll\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\samsung\Desktop\[WORK]\OCT\OCT_DLL\20240131_wpf_dll\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\samsung\Desktop\[WORK]\OCT\OCT_DLL\20240131_wpf_dll\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\samsung\Desktop\[WORK]\OCT\OCT_DLL\20240131_wpf_dll\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\samsung\Desktop\[WORK]\OCT\OCT_DLL\20240131_wpf_dll\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\samsung\Desktop\[WORK]\OCT\OCT_DLL\20240131_wpf_dll\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\samsung\Desktop\[WORK]\OCT\OCT_DLL\20240131_wpf_dll\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\dll\x86\opencv_videoio_ffmpeg490.dll
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\dll\x64\opencv_videoio_ffmpeg490_64.dll
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\WpfApp1.exe
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\DLL_RFC.dll
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\LiveCharts.dll
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\LiveCharts.Wpf.dll
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\MathNet.Filtering.dll
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\MathNet.Numerics.dll
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\OpenCvSharp.dll
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\OpenCvSharp.WpfExtensions.dll
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\System.Buffers.dll
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\System.Drawing.Common.dll
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\System.Memory.dll
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\System.ValueTuple.dll
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\DLL_RFC.pdb
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\LiveCharts.pdb
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\LiveCharts.xml
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\LiveCharts.Wpf.pdb
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\LiveCharts.Wpf.xml
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\MathNet.Filtering.xml
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\MathNet.Numerics.xml
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\OpenCvSharp.xml
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\OpenCvSharp.WpfExtensions.xml
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\System.Buffers.xml
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\System.Drawing.Common.pdb
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\System.Drawing.Common.xml
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\System.Memory.xml
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\System.ValueTuple.xml
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\obj\Debug\App.g.cs
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\obj\Debug\MainWindow.baml
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\obj\Debug\WpfApp1.exe
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\AlazarApiNet.dll
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\dll\x86\opencv_videoio_ffmpeg490.dll
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\dll\x64\opencv_videoio_ffmpeg490_64.dll
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\WpfApp1.exe
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\AlazarApiNet.dll
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\DLL_RFC.dll
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\LiveCharts.dll
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\LiveCharts.Wpf.dll
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\MathNet.Filtering.dll
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\MathNet.Numerics.dll
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\OpenCvSharp.dll
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\OpenCvSharp.WpfExtensions.dll
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\System.Buffers.dll
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\System.Drawing.Common.dll
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\System.Memory.dll
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\System.ValueTuple.dll
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\DLL_RFC.pdb
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\LiveCharts.pdb
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\LiveCharts.xml
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\LiveCharts.Wpf.pdb
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\LiveCharts.Wpf.xml
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\MathNet.Filtering.xml
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\MathNet.Numerics.xml
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\OpenCvSharp.xml
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\OpenCvSharp.WpfExtensions.xml
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\System.Buffers.xml
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\System.Drawing.Common.pdb
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\System.Drawing.Common.xml
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\System.Memory.xml
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\bin\Debug\System.ValueTuple.xml
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\obj\Debug\WpfApp1.exe.config
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\obj\Debug\App.g.cs
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\obj\Debug\MainWindow.baml
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\obj\Debug\WpfApp1.exe
+D:\01 OCT TASK\SS-OCT\SW\OCT_Module\20240131_wpf_dll_ok\WpfApp1\obj\Debug\WpfApp1.pdb
